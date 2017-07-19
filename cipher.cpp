@@ -1,5 +1,4 @@
-//Name: Abdulaziz Alshabibi
-//Proj01
+
 
 #include<iostream>
 #include<fstream>
