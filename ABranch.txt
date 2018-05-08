@@ -1,4 +1,0 @@
-	MasterBranch
-			FirstBranch
-
-#Branch after being merged into the master branch
